@@ -1,0 +1,3 @@
+docker start elsolaruruguay_db_1
+docker start elsolaruruguay_app_1
+docker start elsolaruruguay_web_1
