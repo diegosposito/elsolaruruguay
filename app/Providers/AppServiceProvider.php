@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace GestionJornadas\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
